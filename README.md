@@ -1,2 +1,2 @@
 # Wordlists
-Extremely great lists for salted and crypt hashes I've collected on Github.
+Extremely great lists for salted and crypted hashes I've collected on Github.
